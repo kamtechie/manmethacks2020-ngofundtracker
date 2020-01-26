@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kamtechie/manmethacks2020-ngofundtracker#readme",
   "dependencies": {
-    "firebase-admin": "^8.9.2"
+    "node-fetch": "^2.6.0"
   }
 }
