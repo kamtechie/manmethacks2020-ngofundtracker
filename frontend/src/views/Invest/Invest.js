@@ -60,6 +60,15 @@ class Invest extends Component {
                                             <FormText className="help-block">Please select the project you wish to invest in</FormText>
                                         </Col>
                                     </FormGroup>
+                                    <FormGroup row>
+                                        <Col md="3">
+                                        </Col>
+                                        <Col xs="12" md="3">
+                                            <Button color="success">
+                                                Submit
+                                            </Button>
+                                        </Col>
+                                    </FormGroup>
                                 </Form>
                             </CardBody>
                         </Card>
